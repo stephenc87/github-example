@@ -2,6 +2,10 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+github-example/Assets/Altspace*
+github-example/Assets/Plugins*
+github-example/Assets/Prefabs*
+github-example/Assets/Resources*
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -57,4 +61,3 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
